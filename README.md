@@ -1,14 +1,14 @@
 # Task-8 (Data Analyst Internship)
 
-**Sales Dashboard Design**
+**Sales Dashboard Design**<br><br>
 
-**🎯Goal:** To create a basic interactive dashboard that shows sales performance by product, region, and month.
+**🎯Goal:** To create a basic interactive dashboard that shows sales performance by product, region, and month.<br><br>
 
 **🛠️Tools:**
 
 -Power BI
 
--Dataset: Superstore_Sales
+-Dataset: Superstore_Sales<br><br>
 
 **💡Summary:**
 
